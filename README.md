@@ -6,5 +6,5 @@ This is my solution for the [Codelandia - Iuri Silva](https://discord.com/channe
 
 # Technologies and tools
 
-* cCSS
+* CSS
 * HTML
